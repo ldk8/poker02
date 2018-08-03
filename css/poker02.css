@@ -68,3 +68,16 @@ body{
 .card-removed{
 	opacity: 0;
 }
+
+.cardAJ{background-position: -800px 0;}
+.cardAQ{background-position: -880px 0;}
+.cardAK{background-position: -960px 0;}
+.cardBJ{background-position: -800px -120px;}
+.cardBQ{background-position: -880px -120px;}
+.cardBK{background-position: -960px -120px;}
+.cardCJ{background-position: -800px -240px;}
+.cardCQ{background-position: -880px -240px;}
+.cardCK{background-position: -960px -240px;}
+.cardDJ{background-position: -800px -360px;}
+.cardDQ{background-position: -880px -360px;}
+.cardDK{background-position: -960px -360px;}
